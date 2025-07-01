@@ -118,6 +118,11 @@ public class StudentDAO {
 		return studentList;
 		
 	}
+
+	public int saveStudent(StudentDTO studentDTO2) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
 }
 
 
