@@ -1,4 +1,4 @@
-package study.practice53;
+package study.practice.practice53;
 
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
