@@ -1,6 +1,6 @@
 package study.api;
 
-public class ApiMain2 {
+public class ApiServiceMain {
 
 	public static void main(String[] args) {
 		
